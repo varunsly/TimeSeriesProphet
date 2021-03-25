@@ -13,7 +13,7 @@ This model is used to forecast the vaccination drive in the US.
 
 <img src="ActualVsProject.png">
 
-** Prophet Projection Over Next 12 Weeks**
+**Prophet Projection Over Next 12 Weeks**
 <img src="Forecasting.png">
 
 ### Note
